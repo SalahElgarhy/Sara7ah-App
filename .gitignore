@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.*
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Security and sensitive files
+config/*.key
+*.pem
+*.cert
+*.key
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+
+# Misc
+.DS_Store
+Thumbs.db
